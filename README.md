@@ -1,8 +1,7 @@
-======================
-Simple Password Store
-by Jason Donenfeld
-   Jason@zx2c4.com
-======================
+# Simple Password Store
+=======================
+### by Jason Donenfeld
+### Jason@zx2c4.com
 
 This is a very simple password store that encrypts passwords using gpg and
 places the encrypted password in a directory. It can generate new passwords
@@ -31,7 +30,6 @@ Depends on:
 - qrencode
   https://fukuchi.org/works/qrencode/
 
-MacOS
-=============
+### MacOS
 Modifications _only_ made for macOS compatiblility using macports.
 
