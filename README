@@ -19,10 +19,10 @@ Depends on:
   http://www.gnupg.org/
 - git
   http://www.git-scm.com/
-- xclip (for X11 environments)
-  http://sourceforge.net/projects/xclip/
-- wl-clipboard (for wlroots Wayland-based environments)
-  https://github.com/bugaevc/wl-clipboard
+- ~~xclip (for X11 environments)~~
+  ~~http://sourceforge.net/projects/xclip/~~ **not needed for macOS**
+- ~~wl-clipboard (for wlroots Wayland-based environments)~~
+  ~~https://github.com/bugaevc/wl-clipboard~~ **not needed for macOS**
 - tree >= 1.7.0
   http://mama.indstate.edu/users/ice/tree/
 - GNU getopt
@@ -30,3 +30,8 @@ Depends on:
   http://software.frodo.looijaard.name/getopt/
 - qrencode
   https://fukuchi.org/works/qrencode/
+
+MacOS
+=============
+Modifications _only_ made for macOS compatiblility using macports.
+
